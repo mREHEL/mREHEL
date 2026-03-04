@@ -1,6 +1,6 @@
 # Bonjour, je suis Morgan 👋
 
-**Développeur Web passionné | En recherche d'alternance pour Septembre**
+**Développeur Web passionné | En recherche d'alternance pour Septembre 2026**
 
 Bienvenue sur mon profil GitHub ! Je suis passionné et j'adore transformer des idées en code. Actuellement en pleine montée en compétences, j'utilise cet espace pour partager mes projets, mes expérimentations et ma progression.
 
